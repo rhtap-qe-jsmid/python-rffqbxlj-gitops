@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jsmid/python-rffqbxlj:e3ea93a342a9f96a17bbce5f01c5345579d1b103@sha256:8eb00f83f17e0729bbc84d2a9efcc9d05d3e21559f4bec5031a82830c3ba11db
+        - image: quay.io/jsmid/python-rffqbxlj:e0972e249607bae0fccf2ccbd817629c53d8f1b2@sha256:709a1f2bcc6519d2c7c49e8b4f33f6a3757efeda856ed300505ca9711daedc05
           name: container-image
